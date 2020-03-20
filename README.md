@@ -1,22 +1,26 @@
-# Gesture_PAJ7620  [![Build Status](https://travis-ci.com/Seeed-Studio/Gesture_PAJ7620.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Gesture_PAJ7620)
+Gestenerkennung
+----
+*(Seeed Studio Grove – Gesture)*
 
-<img src=https://statics3.seeedstudio.com/seeed/img/2016-08/5dxWtS1rxWLzukUaHBvGoIG9.jpg width=300><img src=https://statics3.seeedstudio.com/seeed/img/2016-08/3EmTCa2USbPnqZszQNngy8ss.jpg width=300>
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/34_gestenerkennung-1024x1024.jpg width=400px>
 
-[Grove - Gesture（PAJ7620U2)](https://www.seeedstudio.com/s/Grove-Gesture（PAJ7620U2）-p-2463.html)
+Der Sensor für Gestenerkennung erkennt bis zu neun vorprogrammierte Handbewegungen, die unmittelbar vor oder über ihm ausgeführt werden. Als mögliche Handbewegung ist beispielsweise ein Wischen oder eine Drehbewegung der Finger denkbar. So lässt sich ein angeschlossener Mikrocontroller steuern.
 
-**Description**
+Der Sensor kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Er kommuniziert hierbei über die serielle Schnittstelle I2C.
 
-The sensor on Grove - Gesture is PAJ7620U2 that integrates gesture recognition function with general I2C interface into a single chip. It can recognize 9 gestures including move up, move down, move left, move right, etc with a simple swipe of your hand.
-For more information please visit the [wiki](http://wiki.seeedstudio.com/Grove-Gesture_v1.0/).
+Das Modul kann beispielsweise zum Auslösen eines automatischen Seifenspenders eingesetzt werden.
 
+----
 
----
-This software is written by Jack Wu for seeed studio<br>
-and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check LICENSE for more information.<br>
+In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
-Contributing to this software is warmly welcomed. You can do this basically by<br>
-[forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
-for operating guide). Adding change log and your contact into file header is encouraged.<br>
-Thanks for your contribution.
+Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
+Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die [Nutzungsrechte von Seeed Studio](https://github.com/Seeed-Studio/Grove_Dust_Sensor/blob/master/License.txt) beachtet werden. 
 
-Seeed is a hardware innovation platform for makers to grow inspirations into differentiating products. By working closely with technology providers of all scale, Seeed provides accessible technologies with quality, speed and supply chain knowledge. When prototypes are ready to iterate, Seeed helps productize 1 to 1,000 pcs using in-house engineering, supply chain management and agile manufacture forces. Seeed also team up with incubators, Chinese tech ecosystem, investors and distribution channels to portal Maker startups beyond.
+**Weitere Informationen:**
+
+[Repository von Seed Studio](https://github.com/Seeed-Studio/)
+
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
+
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
